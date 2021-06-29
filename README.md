@@ -15,3 +15,6 @@ connections and routes can be found in the directory of the repo
 
 
 after using a case and assembling the modules on a board now it can be used safely.
+
+# Note
+libraries i used back then were perfect but you may need to change a few codes specially the arduino json part cause had huge changes i used version5 but for 6 and above you gotta change to your needs
